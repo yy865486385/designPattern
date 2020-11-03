@@ -72,7 +72,7 @@
 
 最少知道原则是指：一个实体应当尽量少地与其他实体之间发生相互作用，使得系统功能模块相对独立。
 
-#### 6.单⼀职责( Single Responsibility Principle )
+#### 6、单⼀职责( Single Responsibility Principle )
 
 一个类被改变的原因不能超过一个，也就是说，一个类只有一个职责
 
