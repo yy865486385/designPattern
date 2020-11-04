@@ -13,6 +13,7 @@
         <module>StrategyPattern</module>
         <module>nomean</module>
         <module>AbstractFactoryPattern</module>
+        <module>BuilderPattern</module>
     </modules>
 
     <dependencies>
