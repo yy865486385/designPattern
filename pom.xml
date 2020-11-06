@@ -15,6 +15,7 @@
         <module>AbstractFactoryPattern</module>
         <module>BuilderPattern</module>
         <module>PrototypePattern</module>
+        <module>SingletonPattern</module>
     </modules>
 
     <dependencies>
